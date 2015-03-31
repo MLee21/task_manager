@@ -2,8 +2,11 @@
 tasks:
 - id: 1
   title: Do Taxes
-  description: ''
+  description: File taxes before it's too late!
 - id: 2
-  title: Do Taxes
-  description: Do taxes so you're not so poor.
-total: 2
+  title: Make Dinner
+  description: Make a delicious meal.
+- id: 3
+  title: Do Laundry
+  description: Clean yo clothes!
+total: 3

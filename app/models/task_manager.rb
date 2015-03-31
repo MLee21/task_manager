@@ -2,6 +2,7 @@ require 'yaml/store'
 require_relative 'task'
 
 class TaskManager
+  
   def self.database
     @database ||= YAML::Store.new("db/task_manager")
   end
